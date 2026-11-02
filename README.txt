@@ -1,4 +1,4 @@
-NBody code (written by D. Hubber, adapted by D. Stamatellos)
+NBody code (written by D. Hubber, adapted by D. Stamatellos, Revised by M. Hasnain Naseem)
 
 "We use a fourth-order Hermite integration scheme (Makino & Aarseth 1992),
 with a conservative time-step criterion so that energy is conserved to better than 1e-8"
